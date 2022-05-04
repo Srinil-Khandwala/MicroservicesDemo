@@ -1,7 +1,7 @@
 # spring-cloud-gateway-hystrix
 
-MSD IA-2
-Group Members:
+## MSD IA-2  
+Group Members:  
 1911023 - Srinil Khandwala  
 1911032 - Smeet Nagda  
 1911033 - Manan Pandya  
