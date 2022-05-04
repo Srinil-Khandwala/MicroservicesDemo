@@ -2,11 +2,11 @@
 
 MSD IA-2
 Group Members:
-1911023 - Srinil Khandwala
-1911032 - Smeet Nagda
-1911033 - Manan Pandya
-1911034 - Nishit Patel
-!911058 - Ayush Singh
+1911023 - Srinil Khandwala  
+1911032 - Smeet Nagda  
+1911033 - Manan Pandya  
+1911034 - Nishit Patel  
+!911058 - Ayush Singh  
 
 API-GateWay
 -----------
